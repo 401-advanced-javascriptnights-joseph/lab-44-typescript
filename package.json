@@ -1,0 +1,33 @@
+{
+  "name": "lab-44-typescript",
+  "version": "1.0.0",
+  "description": "Teach yourself a new language or framework! Take the next 2 class/lab sessions and learn something completely new, implemented by showcasing a Counter application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascriptnights-joseph/lab-44-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascriptnights-joseph/lab-44-typescript/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascriptnights-joseph/lab-44-typescript#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.9",
+    "@types/react-dom": "^16.9.2",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.2.0",
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
